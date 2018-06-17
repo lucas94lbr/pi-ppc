@@ -1,7 +1,3 @@
 +----------------------------------------------+
-Email           | Password    |	Access
-+----------------------------------------------+
-user@user.com   |	  password	| User Access
-+----------------------------------------------+
-admin@admin.com	|   password  |	Admin Access
-+----------------------------------------------+
+Email : rubenslaurini@yahoo.com.br
+Senha : iesb2018
